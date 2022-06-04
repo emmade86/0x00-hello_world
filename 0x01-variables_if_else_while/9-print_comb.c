@@ -9,16 +9,17 @@
  */
 int main(void)
 {
-	int o = '0';
-	int i = '0';
-	int g = '9';
+	int c = 0;
 
-	putchar(o, );
-	for (i = '0'; i <= '8'; i++)
+	while (c < 10)
 	{
-		putchar(i+1, );
+		putchar(48 + c);
+		if (c != 9)
+		{
+			putchar(',');
+			putchar(' ');
+		}
+		c++;
 	}
-	putchar(g)
 	putchar('\n');
 	return (0);
-}
