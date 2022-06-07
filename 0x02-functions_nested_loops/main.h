@@ -1,5 +1,5 @@
 /**
- * header that adds _putchar to library
+ * header that should add _putchar to library
  */
 
 void _putchar(char a[])
