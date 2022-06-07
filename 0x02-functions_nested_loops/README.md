@@ -1,3 +1,3 @@
 Functions Directory
 Updated 
-twice
+twice now
