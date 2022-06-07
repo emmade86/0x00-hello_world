@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <stdlib>
+#include <stdlib.h>
 /**
  * A simple program that tables
  * the Fahrenheit and Celsius conversions
