@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -6,10 +7,12 @@
  * Return: Always 0 (Success)
  */
 
+void _putchar(char p[]);
+
 int main(void)
 {
 	char p[8] = "_putchar";
 
-	_putchar(char p);
+	_putchar(p);
 	return (0);
 }
