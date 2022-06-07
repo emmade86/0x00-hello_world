@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include "main.h"
 
 /**
  * main - Entry point
@@ -8,9 +9,8 @@
  */
 int main(void)
 {
-	char[] put = '_putchar';
+	char a[8] = "_putchar";
 
-	putchar(put);
-	putchar("\n");
+	_putchar(a);
 	return (0);
 }
