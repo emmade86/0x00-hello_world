@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Description: prints the alphabet, followed by a new line.
+ * print_alphabet - Entry point
+ * prints the alphabet, followed by a new line.
  * Return: Always 0 (Success)
  */
 
