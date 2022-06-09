@@ -2,12 +2,12 @@
 
 /**
  * mul - multiplies two integers
- *@a: multiplying
- *@b: multiplier 
+ * @a: multiplying
+ * @b: multiplier 
  * 
- * Return: res (result) 
+ * Return: res 
  */
-int mul(int a , int b)
+int mul(int a, int b)
 {
 	int res; 
 
